@@ -1,0 +1,18 @@
+{
+  "name": "generic-crud-nestjs",
+  "version": "0.0.1",
+  "description": "Generic CRUD for Nest.js api",
+  "main": "index.ts",
+  "repository": "https://github.com/JeancyDev98/generic-crud-nestjs.git",
+  "author": "Jean Enrique Palacios Estrada <jeanpalaciosdev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.5"
+  }
+}
