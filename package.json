@@ -1,6 +1,6 @@
 {
   "name": "generic-crud-nestjs",
-  "version": "2.0.0",
+  "version": "0.0.2",
   "description": "Generic CRUD for Nest.js api",
   "main": "index.ts",
   "repository": "https://github.com/JeancyDev98/generic-crud-nestjs.git",
