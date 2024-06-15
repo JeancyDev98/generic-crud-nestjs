@@ -1,0 +1,1 @@
+export { GenericController, GenericControllerType } from './generic.controller';
