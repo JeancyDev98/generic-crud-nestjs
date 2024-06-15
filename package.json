@@ -1,5 +1,5 @@
 {
-  "name": "@jeancy/generic-crud-nestjs",
+  "name": "generic-crud-nestjs",
   "version": "0.0.3",
   "description": "Generic CRUD for Nest.js api",
   "main": "src/index.ts",
